@@ -32,7 +32,7 @@ simplified_bitcoin_transaction/
 bash
 Copier
 Modifier
-git clone https://github.com/yourusername/simplified_bitcoin_transaction.git
+git clone (https://github.com/2208se/Bitcoin-Transaction-)
 cd simplified_bitcoin_transaction
 2️⃣ Install Required Libraries:
 bash
